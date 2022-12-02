@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            bool isRunning = true;
+            while (isRunning)
+            {
+
+            }
+
+            Console.WriteLine("Press any key to close the program.");
+            Console.ReadKey();
         }
     }
 }

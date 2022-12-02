@@ -8,5 +8,9 @@ namespace C_Sharp_Interfaces_Hotel_Transylvania
 {
     internal class Room
     {
+        public Room()
+        {
+
+        }
     }
 }
