@@ -8,5 +8,8 @@ namespace C_Sharp_Interfaces_Hotel_Transylvania
 {
     internal interface IInvisibleMonster
     {
+        public void TurnInvisible();
+
+        public void TurnVisible();
     }
 }

@@ -8,5 +8,6 @@ namespace C_Sharp_Interfaces_Hotel_Transylvania
 {
     internal interface IShapeShiftingMonster
     {
+        public string ShapeShift(string newForm);
     }
 }
